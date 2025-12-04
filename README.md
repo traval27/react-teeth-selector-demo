@@ -1,4 +1,12 @@
-# React + Vite
+# react-teeth-selector-demo
+
+## Live Demo
+https://traval27.github.io/react-teeth-selector-demo/
+
+## NPM Package
+https://www.npmjs.com/package/react-teeth-selector
+
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
